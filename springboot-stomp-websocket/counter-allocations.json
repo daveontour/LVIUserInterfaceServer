@@ -1,0 +1,17 @@
+{
+    "data": [
+        {"firstposition": "C01","lastposition": "C04", "starttime": "25/11/2020 11:00","endtime": "25/11/2020 18:00","airline":"TK", "flightnumber": "1001", "departuretime": "25/11/2020 19:45 "},
+        {"firstposition": "C02","lastposition": "C04", "starttime": "25/11/2020 12:00","endtime": "25/11/2020 18:00","airline":"TK", "flightnumber": "1001", "departuretime": "25/11/2020 19:45"},
+        {"firstposition": "B11","lastposition": "B12", "starttime": "25/11/2020 13:00","endtime": "25/11/2020 18:00","airline":"EK", "flightnumber": "4051", "departuretime": "25/11/2020 11:15"},
+        {"firstposition": "B11","lastposition": "B14", "starttime": "25/11/2020 10:00","endtime": "25/11/2020 18:00","airline":"EK", "flightnumber": "4051", "departuretime": "25/11/2020 11:15"},
+        {"firstposition": "E01","lastposition": "E11", "starttime": "25/11/2020 08:00","endtime": "25/11/2020 18:00","airline":"QR", "flightnumber": "2055", "departuretime": "25/11/2020 05:35"},
+        {"firstposition": "E14","lastposition": "", "starttime": "25/11/2020 07:00","endtime": "25/11/2020 18:00","airline":"QR", "flightnumber": "450", "departuretime": "25/11/2020 01:40"},
+        {"firstposition": "E11","lastposition": "E12", "starttime": "25/11/2020 05:00","endtime": "25/11/2020 18:00","airline":"TK", "flightnumber": "3372", "departuretime": "25/11/2020 22:55"},
+        {"firstposition": "H03","lastposition": "H12", "starttime": "25/11/2020 05:00","endtime": "25/11/2020 18:00","airline":"TK", "flightnumber": "230", "departuretime": "25/11/2020 11:15"},
+        {"firstposition": "H11","lastposition": "", "starttime": "25/11/2020 05:00","endtime": "25/11/2020 18:00","airline":"EK", "flightnumber": "7007", "departuretime": "25/11/2020 14:30"},
+        {"firstposition": "H12","lastposition": "", "starttime": "25/11/2020 05:00","endtime": "25/11/2020 18:00","airline":"EK", "flightnumber": "7007", "departuretime": "25/11/2020 14:30"}
+    ]
+}
+
+
+
